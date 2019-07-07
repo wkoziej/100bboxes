@@ -1,2 +1,2 @@
 # 100bboxes
-Example for tensorboard bug ?
+Example for https://github.com/tensorflow/tensorflow/issues/30464
